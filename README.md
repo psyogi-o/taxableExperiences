@@ -1,17 +1,19 @@
 # Education
 
-![Georgia Gwinnett College / Bachelors of Science in Psychology ](.png)
+![Georgia Gwinnett College / Bachelors of Science in Psychology ](20210810183409_IMG_1638.JPG)
 *Aug 2017 - Aug 2021, Lawrenceville, GA 
 *GPA: 3.66
+
 
 # Awards
 
 * Deans list 4 ![](.png)
 * Presidents list spring 2021![](.png)
+* HOPE Scholarship ![](.png)
+* President's Choice Scholarship ![](.png)
 * Outstanding Award – Elite Scholars Program ![](.png)
-* Publix Recognition Card ![](.png)
-* HOPE Scholarship
-* President's Choice Scholarship
+* Publix Recognition Card ![Publics Recon Cards](20210810193040_IMG_1645__01.jpg)
+
 
 # Papers
 
@@ -19,7 +21,8 @@
 * The Key to Happiness (script)
 * The Godfather of Black Psychology   
 
-# Project
+
+# Projects
 
 Milla Granson Project  
 
@@ -32,9 +35,11 @@ Milla Granson Project
 * STaRS Contests for Neurons in Action
 * Computer Simulation of Synaptic Currents Explain Phenomenon in Drosophila Motoneurons
 
+
 # Internship
 
-GSoC – INCF ![](.png)
+GSoC – INCF ![GSoC Acceptance](GSoC_ Student_Acceptance_Letter.pdf)
+
 
 # Clubs
 
@@ -43,10 +48,10 @@ GSoC – INCF ![](.png)
 
 
 # Certifications
-* CPR and AED ![](.png)
-* Responsible Conduct of Research ![](.png)
+* CPR and AED ![CPR Certification](cert_CPR_2019.pdf)
+* Responsible Conduct of Research ![RCR certification](cert_RCR_2019.pdf)
 * Pharmacy - expired
-* Personal trainer - expired ![](.png) 
+* Personal trainer - expired ![](20210810185915_IMG_1644.JPG) 
 
 # Skills
 
@@ -57,6 +62,7 @@ GSoC – INCF ![](.png)
 * Honest
 * Organized             
 * Premier Customer Service 
+
 
 # Jobs
 
